@@ -15,7 +15,7 @@ Created Todo list app using Creational & Structural Design Patterns:
 7. Observer
 8. Chain of Responsibility
 
-<br/ >
+<br />
 How to run:
 1. Open the terminal.
 2. Type "npm i"(wait for all necessary packets to install).
